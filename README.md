@@ -1,2 +1,0 @@
-# Leuven
-GitHub Pages
