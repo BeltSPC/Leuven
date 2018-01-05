@@ -92,6 +92,9 @@ padding-bottom: (@paddingBottom * 15px);
 }
 
 #slider2-14 {
+H1 {
+  font-size: 15px;
+}
 }
 @isPublish: true;
 
