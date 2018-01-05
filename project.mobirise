@@ -189,7 +189,7 @@
                 "title": "&nbsp;BLACK BELT<br><br>",
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"INF.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180105-154834-1-1912x1912.jpg",
@@ -200,7 +200,7 @@
                 "title": "RED BELT<br><br>",
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"INFO.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180105-154732-2000x2000.jpg",
@@ -211,7 +211,7 @@
                 "title": "GREY BELT<br><br>",
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"IN.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
               }
             ]
           },
@@ -833,7 +833,7 @@
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/beltspc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/beltspc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/beltleuven/?hl=nl\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
