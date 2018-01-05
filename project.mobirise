@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSpc",
-    "currentPage": "Home.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 73,
     "versionPublish": "4.5.2",
@@ -1014,7 +1014,7 @@
           "form": {
             "action": "blackbeltleuven@gmail.com",
             "alerts": {
-              "success": "We recieved your order succesfully!\nYou will recieve an e-mail with further information to complete the order. This can take up to max 24 hours.\n\n"
+              "success": "We received your order succesfully!\nYou will receive an e-mail with further information to complete the order. This can take up to max 24 hours.\n\n"
             },
             "fields": {
               "name": {
@@ -1159,7 +1159,7 @@
           "form": {
             "action": "redbeltleuven@gmail.com",
             "alerts": {
-              "success": "We recieved your order succesfully!\nYou will recieve an e-mail with further information to complete the order. This can take up to max 24 hours.\n"
+              "success": "We received your order succesfully!\nYou will receive an e-mail with further information to complete the order. This can take up to max 24 hours.\n"
             },
             "fields": {
               "name": {
@@ -1273,7 +1273,7 @@
             "title": "MESSAGE",
             "action": "beltleuven@gmail.com",
             "alerts": {
-              "success": "We recieved your message succesfully! We will answer it as soon as possible."
+              "success": "We received your message succesfully! We will answer it as soon as possible."
             },
             "fields": {
               "name": {
@@ -1686,7 +1686,7 @@
           "form": {
             "action": "greybeltleuven@gmail.com",
             "alerts": {
-              "success": "We recieved your order succesfully!\nYou will recieve an e-mail with further information to complete the order. This can take up to max 24 hours.\n"
+              "success": "We received your order succesfully!\nYou will receive an e-mail with further information to complete the order. This can take up to max 24 hours.\n"
             },
             "fields": {
               "name": {
