@@ -898,24 +898,6 @@ nav.opened .hamburger span {
 
 #header4-2i {
 }
-
-#ext_menu-3i {
-.mbr-brand__name {
-  font-size: 16px;
-}
-&.mbr-navbar--stuck .mbr-navbar__section {
-  background: #302d2d;
-}
-.mbr-navbar__section {
-  background: #302d2d;
-}
-.mbr-navbar__hamburger {
-  color: #302d2d;
-}
-.mbr-brand__name a {
-  font-size: 48px;
-}
-}
 @isPublish: true;
 
 #footer1-2o {
