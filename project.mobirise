@@ -640,7 +640,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Thuispagina.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Home.html\" data-toolbar=\"-mbrBtnMove\">English</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Thuispagina.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://beltspc.github.io/LeuvenEng/Home.html\" data-toolbar=\"-mbrBtnMove\">English</a>",
           "_tags": [
             "Theme"
           ],
