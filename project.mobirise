@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Maten.html",
+    "currentPage": "Productie.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 142,
+    "uniqCompNum": 153,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -472,7 +472,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Over",
-        "order": 5
+        "order": 2
       },
       "components": [
         {
@@ -790,8 +790,8 @@
     "ZWARTINFO.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "ZWARTE BELT INFO",
-        "order": 7
+        "title": "-ZWARTE BELT INFO",
+        "order": 9
       },
       "components": [
         {
@@ -953,7 +953,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "GRIJZE BELT INFO",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -1111,8 +1111,8 @@
     "ROODINFO.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "RODE BELT INFO",
-        "order": 8
+        "title": "-RODE BELT INFO",
+        "order": 10
       },
       "components": [
         {
@@ -1273,8 +1273,8 @@
     "GRIJZEBELT.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "GRIJZE BELT FORMULIER",
-        "order": 9
+        "title": "--GRIJZE BELT FORMULIER",
+        "order": 11
       },
       "components": [
         {
@@ -1503,8 +1503,8 @@
     "RODEBELT.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
-        "title": "RODE BELT FORMULIER",
-        "order": 10
+        "title": "--RODE BELT FORMULIER",
+        "order": 12
       },
       "components": [
         {
@@ -1643,8 +1643,8 @@
     "ZWARTEBELT.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "ZWARTE BELT FORMULIER",
-        "order": 11
+        "title": "--ZWARTE BELT FORMULIER",
+        "order": 13
       },
       "components": [
         {
@@ -1879,7 +1879,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Contact NDL",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -1951,7 +1951,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">VERZEND BERICHT</a>",
-          "text1": "<br>\n<strong>CONTACTEN</strong><br>\nE-mail: beltleuven@gmail.com<br>Telefoonnummer: (CEO) +32491647947<br>Facebook:&nbsp;https://www.facebook.com/beltspc/<br><br>(Voor elke vraag kan u altijd ons E-mail contacteren, indien u iemand specifiek van het team wilt vragen, gelieve het dan in het onderwerp van uw mail te plaatsen.)",
+          "text1": "<br>\n<strong>CONTACTEN</strong><br>\nE-mail: beltleuven@gmail.com<br>Telefoonnummer: (CEO) +32491647947<br>Facebook:&nbsp;https://www.facebook.com/beltspc/<br><br>(Voor elke vraag kan u altijd ons per E-mail contacteren, indien u iemand specifiek van het team wilt contacteren, gelieve het dan in het onderwerp van uw mail te plaatsen.)",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2025,7 +2025,7 @@
       "settings": {
         "meta_descr": "Shop",
         "title": "Winkel",
-        "order": 14
+        "order": 7
       },
       "components": [
         {
@@ -2233,8 +2233,8 @@
     "Productie.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "Productie",
-        "order": 3
+        "title": "-Productie",
+        "order": 6
       },
       "components": [
         {
@@ -2310,8 +2310,8 @@
                 "showTitle": true,
                 "title": "1) De Buckle",
                 "contentAlign": "left",
-                "text": "Het belangrijkste deel van onze Belt is geproduceerd in Roemenië door de dochteronderneming van ACT Research.&nbsp;<br>De 3 stukjes van onze buckle worden uitgesneden door middel van een lasersnijder, later worden ze zorgvuldig gevouwd en samengesteld tot onze Buckle. Hierna worden ze eerst goed opgeschuurd en tenslotte krijgen de rode en zwarte nog hun kleur, door middel van poedercoating (bij de zwarte) en kwaliteits lak (bij de rode).",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.act-research.be/index.php/nl/over-act\" data-toolbar=\"-mbrBtnMove\">ACT RESEARCH</a>"
+                "text": "Het belangrijkste deel van onze Belt laten we produceren door de dochteronderneming van ACT Research.<br>De 3 stukjes van onze buckle worden uitgesneden door middel van een lasersnijder, later worden ze zorgvuldig gevouwd en samengesteld tot onze Buckle. Hierna worden ze eerst goed opgeschuurd en tenslotte krijgen de rode en zwarte nog hun kleur, door middel van poedercoating (bij de zwarte) en kwaliteits lak (bij de rode).",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.act-research.be/index.php/nl/over-act\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT RESEARCH</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
@@ -2319,10 +2319,10 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "2) Basis van de gordel",
+                "title": "2) De bewerking",
                 "contentAlign": "left",
-                "text": "Eerst worden er afgedankte gordel verzameld op verschillende plaatsen zoals Autodemontage de Graaf waar ze zo vriendelijk waren om ze voor ons uit te snijden, ook het autokerkhof in Alken was een grote hulp. Na het uitsnijden worden gordels op maat geknipt en daarna afgebrand om de gordel te verstevigen.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.degraaf-bv.nl/index.php\" data-toolbar=\"-mbrBtnMove\">Autodemontage de Graaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\">autokerkhof Alken</a>"
+                "text": "Eerst worden de afgedankte gordels uitgesneden uit autowrakken bij garages,autodemonteurs en auto kerkhoven. Na het uitsnijden worden de gordels op maat gesneden en daarna afgebrand om optimale stevigheid te garanderen.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.degraaf-bv.nl/index.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage de Graaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">autokerkhof Wermacars<br></a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
@@ -2332,7 +2332,7 @@
                 "showTitle": true,
                 "title": "3) Afwerken (stikken)",
                 "contentAlign": "left",
-                "text": "Om de Belt helemaal af te werken werden 2 riemen op elkaar gestikt voor optimale stevigheid, dit door ons persoonlijk stik team.",
+                "text": "Om de Belt tot zijn optimale vorm te brengen worden er enkel riemen op elkaar gestikt om ook hier de stevigheid te garanderen.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -2357,8 +2357,8 @@
     "page13.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Goed Doel",
-        "order": 2
+        "title": "-Goed Doel",
+        "order": 5
       },
       "components": [
         {
@@ -2483,7 +2483,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ovk.be%2F&amp;h=ATOJe_zO0nIZ9FhLsPkI8mMfENcn1YwmUT3FBW800x0wICTJFfzhjJKjlkYAKcJYVa5jKWgLGNWF_eZk-6SWCenL_fLkHgriH-tvGu_5v5gcuTo1a985sGlQX8uBcNqLdVenSVPWpSAm\" data-toolbar=\"-mbrBtnMove\">Ouders Van Verongelukt Kinderen</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ovk.be%2F&amp;h=ATOJe_zO0nIZ9FhLsPkI8mMfENcn1YwmUT3FBW800x0wICTJFfzhjJKjlkYAKcJYVa5jKWgLGNWF_eZk-6SWCenL_fLkHgriH-tvGu_5v5gcuTo1a985sGlQX8uBcNqLdVenSVPWpSAm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ouders Van Verongelukt Kinderen</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3t"
         }
@@ -2492,8 +2492,8 @@
     "page14.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "Team",
-        "order": 1
+        "title": "-Team",
+        "order": 3
       },
       "components": [
         {
@@ -2953,7 +2953,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Startpagina",
-        "order": 4
+        "order": 1
       },
       "components": [
         {
@@ -3049,6 +3049,18 @@
         },
         {
           "_params": {
+            "showMeta": true
+          },
+          "title": "CREDITS ONDERAAN",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-48"
+        },
+        {
+          "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -3139,6 +3151,71 @@
           },
           "_protectedParams": [],
           "_anchor": "footer1-2n"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "JARNE KAAG",
+                "contentAlign": "right",
+                "text": "Zonder Jarne Kaag zijn knowhow en zijn connecties met ACT Research was het nooit mogelijk geweest om ons product naar zijn eind vorm te krijgen dus bij deze, heel erg bedankt!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT RESEARCH</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "AUTODEMONTAGE DE GRAAF",
+                "contentAlign": "left",
+                "text": "Na een hopeloze zoektocht naar Riemen hebben we bij deze supervriendelijk onderneming 70 afgedankte riemen kunnen bemachtigen. Bij deze een welgemeende danku!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.degraaf-bv.nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AUTODEMONTAGE DE GRAAF</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "WERMACARS",
+                "contentAlign": "center",
+                "text": "Ook hier zijn we met open handen ontvangen en hebben we tot wel 200 meter aan riemen meegekregen wat onze onderneming een stevige boost heeft gegeven. Ook jullie worden door ons allen zeer hard bedankt!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WERMACARS</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "AANDEELHOUDERS",
+                "contentAlign": "center",
+                "text": "De personen die we het meest mogen bedanken zijn natuurlijk onze aandeelhouders die van begin af aan geloofde in onze onderneming en ons hun geld hebben toevertrouwd. We zullen jullie niet teleurstellen!",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-47",
+          "_styles": {
+            "H1": {
+              "font-size": "32px"
+            }
+          }
         }
       ]
     },
@@ -3146,7 +3223,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Maten",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -3321,6 +3398,214 @@
           ],
           "_name": "image2",
           "_anchor": "image2-1i"
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "-Product",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960-800x806.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960-800x806.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-44"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#302d2d",
+            "hamburgerColor": "#302d2d"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"Winkel.html\" data-toolbar=\"-mbrBtnMove\">WINKEL</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#302d2d"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "48px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Startpagina.html\">STARTPAGINA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Over.html\">OVER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact NDL.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Sizes.html\">MATEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Language.html\">TAAL</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Thuispagina.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3y"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img_20180105-155757-2000x1125.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "<i>Buckle up!</i>",
+          "text": "<p><b>Ons product is in enkele woorden te beschrijven.</b></p><p>1) Multifunctioneel: Onze buckle bied buiten het strak houden van de riem ook de mogenlijkheid om op verantwoorde momenten uw flesjes met kroonkurk te openen.</p><p>2) Ecologisch: Onze riem zelf is grotendeels gemaakt uit producten die normaal gezien op een afvalberg zouden belanden als wij ze niet zouden hergebruiken.</p><p>3) Comfort: Door middel van onze riem kan u zelf kiezen hoe strak u wilt dat uw broek zit en hoeft u niet constant uw broek op te trekken tijdens een gezellige wandeling.</p><p>4) Stijlvol: Door de prachtige kleuren die in ons assortiment wordt aangeboden kan u elke met veel zelfvertrouwen rondlopen.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-41"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-42"
         }
       ]
     }
