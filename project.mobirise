@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Productie.html",
+    "currentPage": "page14.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 153,
     "versionPublish": "4.5.2",
@@ -2671,9 +2671,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2691,9 +2694,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2711,9 +2717,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2824,9 +2833,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/user-female-silhouette-600x633.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2844,9 +2856,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2864,9 +2879,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/user-female-silhouette-600x633.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
