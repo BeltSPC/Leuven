@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Winkel.html",
+    "currentPage": "Over.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 167,
     "versionPublish": "4.5.2",
@@ -714,7 +714,7 @@
             }
           },
           "title3": "<br><br><br><br><br><br><br><br><br><br><br><br>Goed Doel",
-          "caption3": "Met onze onderneming kunnen wij en u met veel plezier een goed doel steunen.",
+          "caption3": "Met onze onderneming kunnen we samen een goed doel steunen.",
           "button3": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media4": {
             "image": {
