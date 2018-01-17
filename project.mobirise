@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Language.html",
+    "currentPage": "GRIJSINFO.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 167,
     "versionPublish": "4.5.2",
@@ -878,7 +878,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180105-155003-1-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180117-214942-1399x1153.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1176,7 +1176,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180105-154911-1-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180117-220331-1400x1068.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1471,7 +1471,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180105-154834-1-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180117-220026-1400x1012.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3141,7 +3141,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -3163,13 +3163,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "3) De afwerking van de riem (stikken)",
+                "title": "3) De afwerking van de riem&nbsp;",
                 "contentAlign": "left",
-                "text": "Om de riem tot zijn optimale vorm te brengen worden er enkel gordels op elkaar gestikt om ook hier de optimale stevigheid te garanderen aan jullie.",
+                "text": "Om de riem tot zijn optimale vorm te brengen worden er enkel gordels op elkaar gestikt om ook hier de optimale stevigheid te garanderen aan jullie. Als finishing touch wordt er op het uiteinde van de riem een riemklem gezet.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -4330,53 +4330,6 @@
       },
       "components": [
         {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960-800x806.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-952x960-800x806.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-44"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -4480,53 +4433,6 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-41"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sbpew2ncf-2-350x350-350x350.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-42"
         }
       ]
     }
