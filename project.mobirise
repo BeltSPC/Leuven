@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Startpagina.html",
+    "currentPage": "Over.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 186,
+    "uniqCompNum": 191,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -458,7 +458,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://beltspc.github.io/Leuven/Startpagina.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://beltspc.github.io/LeuvenEng/Home.html\" data-toolbar=\"-mbrBtnMove\">English</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Startpagina.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://beltspc.github.io/LeuvenEng/Home.html\" data-toolbar=\"-mbrBtnMove\">English</a>",
           "_tags": [
             "Theme"
           ],
@@ -673,7 +673,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20180105-154834-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture1.png-belt-3-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -696,7 +696,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ovk-transparent-600x126.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-ovk-transparent-1-600x126.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3073,8 +3073,8 @@
             "bgColor": "#5b5454",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/picture1.png-beltie-1645x789.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -3084,25 +3084,25 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.act-research.be/index.php/nl/over-act\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT RESEARCH</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picture1.png-beltj-2-1647x789.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "2) &nbsp;Het uitsnijden",
                 "contentAlign": "left",
-                "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte. De volgende stap bestaat uit het afbranden van de zijkant om uitrafelen tegen te gaan en optimale stevigheid te garanderen. ",
+                "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.degraaf-bv.nl/index.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage de Graaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">autokerkhof Wermacars<br></a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/picture1.-beltj-1645x789.png",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "3) De afwerking van de riem&nbsp;",
                 "contentAlign": "left",
-                "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte. De volgende stap bestaat uit het afbranden van de zijkant om uitrafelen tegen te gaan en optimale stevigheid te garanderen.&nbsp;",
+                "text": "In een tweede fase branden we de zijkant af om uitrafelen tegen te gaan en optimale stevigheid te garanderen. Bij het aan elkaar stikken van twee gordels van gelijke lengte krijgt de riem eindelijk zijn gewenste basis. De buitenranden werken we af met biaislint. De laatste stap bestaat uit het bevestigen van een riemklem aan de uiteindes van de riem.  ",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -4541,6 +4541,33 @@
               "font-size": "22px"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/25593125-1626293777449485-1527911090-o-1400x1050.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-58"
         }
       ]
     }
