@@ -916,6 +916,9 @@ padding-bottom: (@paddingBottom * 15px);
 }
 
 #features1-3w {
+.mbr-section__col .mbr-header__text {
+  color: #000000;
+}
 }
 
 #features1-3x {
@@ -940,10 +943,7 @@ padding-bottom: (@paddingBottom * 15px);
 }
 }
 
-#header4-2m {
-H1 {
-  font-size: 100px;
-}
+#slider-52 {
 }
 
 #header3-48 {
@@ -1070,17 +1070,9 @@ P {
 #ext_menu-3y .mbr-brand__name a {
   font-size: 48px;
 }
-#content5-41 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+#content4-4x P {
+  color: #000000;
 }
-#content5-41 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-41 .mbr-article {
-  color: #fff;
-}
-#content5-41 .mbr-article P {
-  color: #ffffff;
+#content4-4x .mbr-section__col .mbr-header__text {
+  font-size: 22px;
 }

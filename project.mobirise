@@ -1,19 +1,19 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Maten.html",
+    "currentPage": "Startpagina.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 177,
+    "uniqCompNum": 186,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
+        "#ea2727",
         "#ececec",
         "#df110e",
         "#3d3d3d",
         "#5b5454",
         "#cddade",
-        "#302d2d",
-        "#312d2d"
+        "#302d2d"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-128x129.png",
@@ -668,7 +668,7 @@
             }
           },
           "title1": "Team",
-          "caption1": "Zes gedreven jongeren uit het Sint-pieterscollege te Leuven onder leiding van Jonas Van Bladel.",
+          "caption1": "Zes gedreven jongeren uit het Sint-Pieterscollege te Leuven onder leiding van Jonas Van Bladel.<br><br><br><br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media2": {
             "image": {
@@ -691,7 +691,7 @@
             }
           },
           "title2": "Product",
-          "caption2": "Ons product heeft vier pijlers waar het op steunt.",
+          "caption2": "Ons product steunt op vier pijlers.<br><br><br><br><br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media3": {
             "image": {
@@ -714,7 +714,7 @@
             }
           },
           "title3": "<br><br><br><br><br><br><br><br><br><br><br><br>Goed Doel",
-          "caption3": "Onze onderneming hecht naast het uitkeren van een dividend aan de aandeelhouders ook veel waarde aan het sociale aspect. Zo steunen wij de campagne van ‘Ouders van Verongelukte Kinderen.’",
+          "caption3": "Onze onderneming hecht naast het maken van winst en het uitkeren van een dividend aan de aandeelhouders ook veel waarde aan het sociale aspect. Zo steunen wij Save vzw - Ouders van Verongelukte Kinderen.<br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media4": {
             "image": {
@@ -737,7 +737,7 @@
             }
           },
           "title4": "&nbsp;<br><br>Productie<br><br>",
-          "caption4": "De afgedankte autogordels hebben een aantal stappen moeten ondergaan in het productieproces vooraleer hij er uitziet als een Belt-riem.  ",
+          "caption4": "De transformatie van autogordel naar broeksriem vraagt meer inspanning dan je op het eerste zicht zou denken. Afgedankte autogordels doorlopen een aantal stappen in het productieproces voor ze er uitzien als een Belt-riem.<br>    ",
           "button4": "<a data-app-btn=\"true\" href=\"Productie.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media5": {
             "image": {
@@ -3080,7 +3080,7 @@
                 "showTitle": true,
                 "title": "1) De buckle",
                 "contentAlign": "left",
-                "text": "Het metalen buckle van de Belt-riem laten we produceren in het buitenland door een dochteronderneming van de ijzerfabrikant ACT Research.&nbsp;<br>Eerst snijden ze alle onderdelen uit een metalen plaat, vervolgens worden ze zorgvuldig gevouwd en samengesteld tot de Buckle. Bij de afwerking worden ze eerst goed opgeschuurd en tenslotte krijgen ze hun eindkleur.<br>Door middel van poedercoating en een kwaliteitslak is de buckle roestvrij en behoudt hij zijn kleur.<br>",
+                "text": "De metalen buckle van de Belt-riem wordt geproduceerd in het buitenland door een dochteronderneming van de autogarage ACT Research. \n<br>\n<br>Eerst worden alle onderdelen uit een metalen plaat gesneden. Vervolgens worden de verschillende stukken zorgvuldig gevouwen en samengesteld tot onze Buckle.<br><br> Bij de afwerking worden de gespen eerst grondig opgeschuurd waarna ze hun eindkleur krijgen.\n<br>Door het gebruik van poedercoating en kwaliteitslak is de buckle roestvrij en kleurvast. &nbsp;<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.act-research.be/index.php/nl/over-act\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT RESEARCH</a>"
               },
               {
@@ -3091,7 +3091,7 @@
                 "showTitle": true,
                 "title": "2) &nbsp;Het uitsnijden",
                 "contentAlign": "left",
-                "text": "Eerst worden de gordels uitgesneden uit autowrakken bij garages, autodemonteurs en autokerkhoven. Na het uitsnijden worden de gordels op maat gesneden en daarna wordt de de gordel afgebrand om een optimale stevigheid te garanderen.",
+                "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte. De volgende stap bestaat uit het afbranden van de zijkant om uitrafelen tegen te gaan en optimale stevigheid te garanderen. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.degraaf-bv.nl/index.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage de Graaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">autokerkhof Wermacars<br></a>"
               },
               {
@@ -3102,7 +3102,7 @@
                 "showTitle": true,
                 "title": "3) De afwerking van de riem&nbsp;",
                 "contentAlign": "left",
-                "text": "Bij de afwerking van de riem, worden er twee gordels op elkaar gestikt en worden de randen mooi afgewerkt met een bisetlint. Als finishing touch wordt er op het uiteinde van de riem een riemklem gezet. ",
+                "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte. De volgende stap bestaat uit het afbranden van de zijkant om uitrafelen tegen te gaan en optimale stevigheid te garanderen.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -3233,7 +3233,7 @@
             }
           },
           "title": "Goed Doel: vzw OVVK",
-          "text": "<p>Onze onderneming ‘Belt’ wilt mensen bewust maken inzake verkeersveiligheid. We willen onze doelgroep, bestaande uit jongeren en volwassenen, er steeds aan doen denken zich vast te klikken in de auto. Zo steunt onze onderneming de vzw OVVK (Ouders Van Verongelukte Kinderen). Per verkochte riem wordt er één euro gedoneerd aan dit goede doel. Door het kopen van een Belt-riem steun je de nabestaanden bij hun verwerkingsproces. Er wordt hulp, ondersteuning en begeleiding aangeboden.</p><p><br></p>",
+          "text": "<p>Belt dragen is vastklikken in de auto. Onze onderneming steunt Ouders van Verongelukte Kinderen – Save vzw. OVK biedt hulp, begeleiding en steun aan families van (jonge) dodelijke verkeerslachtoffers. Door het kopen van een Belt-riem steun je ook hun campagnes voor meer verkeersveiligheid  Per verkochte riem schenken we €1 aan dit project.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -3418,7 +3418,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "columns": "3",
@@ -3458,9 +3458,9 @@
               "size": 0
             }
           },
-          "title1": "CEO",
+          "title1": "CEO:<br><br> Jonas van Bladel",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">JONAS VAN BLADEL</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">JONAS VAN BLADEL</a>",
           "media2": {
             "image": {
               "active": true,
@@ -3481,7 +3481,7 @@
               "size": 0
             }
           },
-          "title2": "ADMINISTRATIEF DIRECTEUR",
+          "title2": "ADMINISTRATIEF DIRECTEUR:<br><br> Iason Konijn",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">IASON KONIJN</a>",
           "media3": {
@@ -3504,7 +3504,7 @@
               "size": 0
             }
           },
-          "title3": "FINANCIEEL DIRECTEUR",
+          "title3": "FINANCIEEL DIRECTEUR:<br><br> Kobe Verbeeck",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">KOBE VERBEECK</a>",
           "media4": {
@@ -3571,7 +3571,12 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-3w"
+          "_anchor": "features1-3w",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -3580,7 +3585,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "columns": "3",
@@ -3620,7 +3625,7 @@
               "size": 0
             }
           },
-          "title1": "HR MANAGER",
+          "title1": "HR MANAGER:<br><br> Hannah de Graef",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">HANNAH DE GRAEF</a>",
           "media2": {
@@ -3643,7 +3648,7 @@
               "size": 0
             }
           },
-          "title2": "TECHNISCH DIRECTEUR<br>",
+          "title2": "<br>TECHNISCH DIRECTEUR:<br><br> Victor Smeys<br>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">VICTOR SMEYS</a>",
           "media3": {
@@ -3666,7 +3671,7 @@
               "size": 0
             }
           },
-          "title3": "COMMERCIEEL DIRECTEUR",
+          "title3": "COMMERCIEEL DIRECTEUR:<br><br> Alba Peiró De Bondt",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ALBA PEIRÓ DE BONDT</a>",
           "media4": {
@@ -3800,40 +3805,67 @@
           "_anchor": "ext_menu-2l"
         },
         {
-          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20180105-155757-2000x1125.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180105-155757-2000x1125.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180117-220333-2000x1526.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180117-214948-2000x1648.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180117-220026-2000x1446.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
           },
-          "title": "",
-          "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "font-size": "100px"
-            }
-          },
-          "_anchor": "header4-2m"
+          "_name": "slider",
+          "_anchor": "slider-52"
         },
         {
           "_params": {
@@ -3953,9 +3985,9 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "JARNE KAAG",
-                "contentAlign": "left",
-                "text": "Jarne Kaag zijn knowhow en connecties met ACT Research hebben ons heel hard geholpen tijdens het productieproces. Dankzij de snelle levering van de buckles en de goede raad, optimaliseerden we het productieproces en hopen we in de toekomst nog veel met hem samen te werken.",
+                "title": "DROOMCOACH",
+                "contentAlign": "center",
+                "text": "De knowhow en de connecties bij ACT Research van Jarne Kaag zijn van onschatbare waarde geweest bij het opstarten van onze onderneming. Dankzij zijn goede raad en de snelle levering van de buckles hebben we het productieproces kunnen optimaliseren. We hopen dat we ook in de toekomst op hem kunnen blijven beroep doen.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT RESEARCH</a> "
               },
               {
@@ -3966,7 +3998,7 @@
                 "showTitle": true,
                 "title": "AUTODEMONTAGE DE GRAAF",
                 "contentAlign": "center",
-                "text": "Na een lange zoektocht naar gordels hebben we online een bedrijf in Nederland kunnen contacteren. Een mevrouw bood onze onderneming 70 afgedankte autogordels aan. Met het hoofdonderdeel van de Belt-riem zijn we meteen aan de slag gegaan. Alvast een welgemeende danku!",
+                "text": "In onze lange en soms moeizame zoektocht naar gordels zijn we op een online bedrijf in Nederland gestuit. Via hen hebben we 70 afgedankte autogordels op de kop kunnen tikken. Een echte meevaller want zonder autogordels geen Belt. Een welgemeend dank je aan onze Nederlandse fan . ",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.degraaf-bv.nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AUTODEMONTAGE DE GRAAF</a> "
               },
               {
@@ -3977,7 +4009,7 @@
                 "showTitle": true,
                 "title": "WERMACARS",
                 "contentAlign": "center",
-                "text": "Ook op het autokerkhof in Alken werden we met open armen ontvangen. Ze gaven ons een rol van 200 meter aan autogordels mee. Ze vonden ons project zo origineel en goed gevonden dat ze ons verzekerden dat ze in de toekomst nog willen helpen. Dit gaf onze onderneming een enorme boost. Ook jullie worden door ons allen zeer hard bedankt!",
+                "text": "Wemar Cars, een autokerkhof in Alken, is een andere grote leverancier van oude gordels. Via hen kregen we een rol van 200 meter autogordels mee. De medewerkers waren heel enthousiast over ons project en vonden het vooral erg origineel. Ze beloofden om ons ook in de toekomst te helpen. Hun waardering en enthousiasme gaf ons een enorme boost. Enorm bedankt van ons allemaal!&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WERMACARS</a> ",
                 "overlay": false
               },
@@ -3989,7 +4021,7 @@
                 "showTitle": true,
                 "title": "AANDEELHOUDERS",
                 "contentAlign": "left",
-                "text": "De aandeelhouders hebben ons in het begin van het jaar het vertrouwen gegeven door ons een startkapitaal uit te keren. Ze geloofden in ons concept en we zijn er van overtuigd dat we ze niet zullen teurstellen. Op het eind van het jaar hopen we hen een groot dividend te mogen uitkeren.",
+                "text": "Ons startkapitaal komt van aandeelhouders die in september 2017 mee in ons project gestapt zijn. Ze hebben vertrouwen in ons en in ons product. Wij doen ons uiterste best om hen niet teleur te stellen en hen op het einde van het jaar een mooi dividend te kunnen uitkeren",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ]
@@ -4349,54 +4381,166 @@
           "_anchor": "ext_menu-3y"
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "color": "#ffffff"
-            }
-          },
+          "_inherit": "features1",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "columns": 5,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img_20180105-155757-2000x1125.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img_20180117-220332-2000x1526.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#b8312f",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "<i>Buckle up!</i>",
-          "text": "<p><b>Ons product is in enkele woorden te beschrijven.</b></p><p>1) Multifunctioneel: Onze buckle is zowel universeel als modebewust. Daarnaast kan de buckle ook gediend worden om op verantwoorde momenten uw flesjes met kroonkurk te openen.\n</p><p>2) Ecologisch: Onze riem is grotendeels gemaakt uit producten die op een afvalberg zouden belanden. We geven de autogordels zo een tweede leven en vormen ze om tot een volledig nieuw product.\n</p><p>3) Comfort: U kan zelf bepalen hoe strak u de buckle kan aantrekken. Doordat de riem zacht aanvoelt, zorgt het ervoor dat het geen schade aanricht aan uw broek.\n</p><p>4) Stijlvol: Door de verschillende kleuren die in ons assortiment te vinden zijn, hebt u een grote keuze en is er voor iedereen wat wils. \n</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-41"
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Ecologisch",
+          "caption1": "1) Ecologisch: Onze riem is grotendeels gemaakt uit producten die op de afvalberg zouden belanden. We geven oude autogordels een tweede leven en vormen ze om tot een volledig nieuw product.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Stijlvol",
+          "caption2": "2) Stijlvol: Ons product is unisex, eigentijds en modebewust. Ons assortiment gespen is beschikbaar in verschillende kleuren en afwerkingen. Voor ieder wat wils.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Comfort",
+          "caption3": "3) Comfort: De buckle is gemakkelijk te hanteren. Je bepaalt zelf hoe strak je je riem aanspant. De riem voelt zacht aan en is mooi afgewerkt, waardoor hij gemakkelijk door de broekslussen gaat en geen schade aanricht.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Multifunctioneel",
+          "caption4": "4) Multifunctioneel: Onze buckle past op alle gelijkaardige riemen. Bijkomend kan de gesp ook gebruikt worden als flessenopener. We raden sterk aan de gesp hiervoor alleen te gebruiken onder verantwoorde omstandigheden.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Ondernemen",
+          "caption5": "Belt doet ook aan ethisch ondernemen. We willen mensen bewust maken over verkeersveiligheid. Door het dragen van een gerecycleerde autogordel hopen we dat onze doelgroep stilstaat bij het belang van het dragen van een gordel in de auto. ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-4x",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "22px"
+            }
+          }
         }
       ]
     }
