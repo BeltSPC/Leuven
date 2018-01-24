@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Over.html",
+    "currentPage": "Language.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 191,
+    "uniqCompNum": 200,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -968,8 +968,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -988,8 +988,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1008,8 +1008,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1028,8 +1028,8 @@
               "size": 0
             }
           },
-          "title4": "Extra Large",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1048,8 +1048,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "4 EURO extra",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1068,8 +1068,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.",
+          "title6": "CUSTOM (50 cent per 5 cm)",
+          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1081,7 +1081,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-4q"
+          "_anchor": "content4-5c"
         }
       ]
     },
@@ -1263,8 +1263,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1283,8 +1283,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1303,8 +1303,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1323,8 +1323,8 @@
               "size": 0
             }
           },
-          "title4": "Extra Large",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1343,8 +1343,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "4 EURO extra",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1363,8 +1363,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.",
+          "title6": "CUSTOM (50 cent per 5 cm)",
+          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1376,7 +1376,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-4i"
+          "_anchor": "content4-5b"
         }
       ]
     },
@@ -1561,8 +1561,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1581,8 +1581,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1601,8 +1601,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1621,8 +1621,8 @@
               "size": 0
             }
           },
-          "title4": "Extra Large",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1641,8 +1641,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "4 EURO extra",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1661,8 +1661,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.",
+          "title6": "CUSTOM (50 cent per 5 cm)",
+          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1674,7 +1674,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-4r"
+          "_anchor": "content4-5d"
         }
       ]
     },
@@ -1837,8 +1837,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1857,8 +1857,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1877,8 +1877,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1897,8 +1897,8 @@
               "size": 0
             }
           },
-          "title4": "Extra Large",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1917,8 +1917,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "4 EURO extra",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1937,8 +1937,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.",
+          "title6": "CUSTOM (50 cent per 5 cm)",
+          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1950,7 +1950,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-4v"
+          "_anchor": "content4-5e"
         }
       ]
     },
@@ -2113,8 +2113,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2133,8 +2133,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2153,8 +2153,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2173,8 +2173,8 @@
               "size": 0
             }
           },
-          "title4": "Extra Large",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2193,8 +2193,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "4 EURO extra",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -2213,8 +2213,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.",
+          "title6": "CUSTOM (50 cent per 5 cm)",
+          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -2226,7 +2226,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-4u"
+          "_anchor": "content4-5f"
         }
       ]
     },
@@ -2394,8 +2394,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2414,8 +2414,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2434,8 +2434,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2454,8 +2454,8 @@
               "size": 0
             }
           },
-          "title4": "Extra Large",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2474,8 +2474,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "4 EURO extra",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -2494,8 +2494,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.",
+          "title6": "CUSTOM (50 cent per 5 cm)",
+          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -2507,7 +2507,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-4t"
+          "_anchor": "content4-5g"
         }
       ]
     },
@@ -3092,7 +3092,7 @@
                 "title": "2) &nbsp;Het uitsnijden",
                 "contentAlign": "left",
                 "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.degraaf-bv.nl/index.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage de Graaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">autokerkhof Wermacars<br></a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.degraaf-bv.nl/index.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage de Graaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">autokerkhof Wemar Cars<br></a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1.-beltj-1645x789.png",
@@ -3253,7 +3253,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ovk.be%2F&amp;h=ATOJe_zO0nIZ9FhLsPkI8mMfENcn1YwmUT3FBW800x0wICTJFfzhjJKjlkYAKcJYVa5jKWgLGNWF_eZk-6SWCenL_fLkHgriH-tvGu_5v5gcuTo1a985sGlQX8uBcNqLdVenSVPWpSAm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ouders Van Verongelukt Kinderen</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ovk.be%2F&amp;h=ATOJe_zO0nIZ9FhLsPkI8mMfENcn1YwmUT3FBW800x0wICTJFfzhjJKjlkYAKcJYVa5jKWgLGNWF_eZk-6SWCenL_fLkHgriH-tvGu_5v5gcuTo1a985sGlQX8uBcNqLdVenSVPWpSAm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ouders Van Verongelukte Kinderen</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3t"
         }
@@ -3441,7 +3441,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
+              "src": "@PROJECT_PATH@/assets/images/4786-365x550.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3464,7 +3464,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
+              "src": "@PROJECT_PATH@/assets/images/4771-365x550.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3487,7 +3487,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
+              "src": "@PROJECT_PATH@/assets/images/4921-365x550.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3608,7 +3608,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/user-female-silhouette-600x633.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4563-365x550.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3631,7 +3631,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/silhouette-400x400.png",
+              "src": "@PROJECT_PATH@/assets/images/4894-365x550.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3654,7 +3654,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/user-female-silhouette-600x633.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4954-365x550.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3808,7 +3808,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": false,
@@ -4007,10 +4007,10 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "WERMACARS",
+                "title": "WEMAR CARS",
                 "contentAlign": "center",
                 "text": "Wemar Cars, een autokerkhof in Alken, is een andere grote leverancier van oude gordels. Via hen kregen we een rol van 200 meter autogordels mee. De medewerkers waren heel enthousiast over ons project en vonden het vooral erg origineel. Ze beloofden om ons ook in de toekomst te helpen. Hun waardering en enthousiasme gaf ons een enorme boost. Enorm bedankt van ons allemaal!&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WERMACARS</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEMAR CARS</a> ",
                 "overlay": false
               },
               {
@@ -4072,6 +4072,169 @@
       },
       "components": [
         {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "CUSTOM (50 cent per 5 cm)",
+          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.&nbsp;<br> ",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content4-5h"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -4127,169 +4290,6 @@
           "_anchor": "ext_menu-1f"
         },
         {
-          "_inherit": "features1",
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "Extra Large",
-          "caption4": "<b>130 cm</b>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "CUSTOM",
-          "caption5": "4 EURO extra",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "INFO",
-          "caption6": "Custom riemen kunnen afgewezen worden indien wij niet in staat zijn de gewenste lengte te maken.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content4-4s"
-        },
-        {
           "_params": {
             "showText": false,
             "outside": false
@@ -4297,7 +4297,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/23674670-271974146659086-3214157821176011498-o-1400x929.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27046889-1261912570620262-2022393738-o-1400x1050.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",

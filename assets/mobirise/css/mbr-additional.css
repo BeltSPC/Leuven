@@ -520,11 +520,11 @@ padding-bottom: (@paddingBottom * 15px);
 #msg-box4-2v .mbr-article P {
   color: #ffffff;
 }
-#content4-4q P {
+#content4-5c P {
   text-align: center;
   color: #000000;
 }
-#content4-4q B {
+#content4-5c B {
   color: #000000;
 }
 #ext_menu-2r .mbr-brand__name {
@@ -551,11 +551,11 @@ padding-bottom: (@paddingBottom * 15px);
 #msg-box4-2s .mbr-article {
   color: #ffffff;
 }
-#content4-4i P {
+#content4-5b P {
   text-align: center;
   color: #000000;
 }
-#content4-4i B {
+#content4-5b B {
   color: #000000;
 }
 #ext_menu-2x .mbr-brand__name {
@@ -585,11 +585,11 @@ padding-bottom: (@paddingBottom * 15px);
 #msg-box4-2y .mbr-article P {
   color: #f2e8e8;
 }
-#content4-4r P {
+#content4-5d P {
   text-align: center;
   color: #000000;
 }
-#content4-4r B {
+#content4-5d B {
   color: #000000;
 }
 #ext_menu-31 .mbr-brand__name {
@@ -607,11 +607,11 @@ padding-bottom: (@paddingBottom * 15px);
 #ext_menu-31 .mbr-brand__name a {
   font-size: 48px;
 }
-#content4-4v P {
+#content4-5e P {
   text-align: center;
   color: #000000;
 }
-#content4-4v B {
+#content4-5e B {
   color: #000000;
 }
 #ext_menu-34 .mbr-brand__name {
@@ -629,11 +629,11 @@ padding-bottom: (@paddingBottom * 15px);
 #ext_menu-34 .mbr-brand__name a {
   font-size: 48px;
 }
-#content4-4u P {
+#content4-5f P {
   text-align: center;
   color: #000000;
 }
-#content4-4u B {
+#content4-5f B {
   color: #000000;
 }
 #ext_menu-38 .mbr-brand__name {
@@ -654,11 +654,11 @@ padding-bottom: (@paddingBottom * 15px);
 #form1-39 .mbr-header__text {
   color: #ffffff;
 }
-#content4-4t P {
+#content4-5g P {
   text-align: center;
   color: #000000;
 }
-#content4-4t B {
+#content4-5g B {
   color: #000000;
 }
 #ext_menu-3b .mbr-brand__name {
@@ -1033,6 +1033,13 @@ P {
 
 #social-buttons2-4a {
 }
+#content4-5h P {
+  text-align: center;
+  color: #000000;
+}
+#content4-5h B {
+  color: #000000;
+}
 #ext_menu-1f .mbr-brand__name {
   font-size: 16px;
 }
@@ -1047,13 +1054,6 @@ P {
 }
 #ext_menu-1f .mbr-brand__name a {
   font-size: 48px;
-}
-#content4-4s P {
-  text-align: center;
-  color: #000000;
-}
-#content4-4s B {
-  color: #000000;
 }
 #ext_menu-3y .mbr-brand__name {
   font-size: 16px;
