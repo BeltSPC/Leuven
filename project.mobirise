@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Language.html",
+    "currentPage": "Productie.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 200,
     "versionPublish": "4.5.2",
@@ -3065,7 +3065,7 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -3871,7 +3871,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Medemogelijk gemaakt door",
+          "title": "Mede mogelijk gemaakt door",
           "meta": "",
           "_tags": [
             "Theme"
@@ -3976,7 +3976,7 @@
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "showBullets": true,
             "slides": [
               {
