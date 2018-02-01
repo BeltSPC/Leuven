@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Productie.html",
+    "currentPage": "Over.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 200,
     "versionPublish": "4.5.2",
@@ -602,7 +602,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -650,7 +650,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-600x605.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -668,7 +668,7 @@
             }
           },
           "title1": "Team",
-          "caption1": "Zes gedreven jongeren uit het Sint-Pieterscollege te Leuven onder leiding van Jonas Van Bladel.<br><br><br><br><br><br>",
+          "caption1": "Zes gedreven jongeren uit het Sint-Pieterscollege te Leuven onder leiding van Jonas Van Bladel.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media2": {
             "image": {
@@ -691,7 +691,7 @@
             }
           },
           "title2": "Product",
-          "caption2": "Ons product steunt op vier pijlers.<br><br><br><br><br><br><br><br>",
+          "caption2": "Ons product steunt op vier pijlers.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media3": {
             "image": {
@@ -714,7 +714,7 @@
             }
           },
           "title3": "<br><br><br><br><br><br><br><br><br><br><br><br>Goed Doel",
-          "caption3": "Onze onderneming hecht naast het maken van winst en het uitkeren van een dividend aan de aandeelhouders ook veel waarde aan het sociale aspect. Zo steunen wij Save vzw - Ouders van Verongelukte Kinderen.<br><br><br>",
+          "caption3": "Onze onderneming hecht naast het maken van winst en het uitkeren van een dividend aan de aandeelhouders ook veel waarde aan het sociale aspect. Zo steunen wij Save vzw - Ouders van Verongelukte Kinderen.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Meer Info</a>",
           "media4": {
             "image": {
@@ -831,7 +831,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1129,7 +1129,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1424,7 +1424,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1722,7 +1722,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1998,7 +1998,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2274,7 +2274,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2555,7 +2555,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2812,7 +2812,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3044,7 +3044,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3168,7 +3168,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3393,7 +3393,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3786,13 +3786,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "Startpagina.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4271,7 +4270,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -4362,7 +4361,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
